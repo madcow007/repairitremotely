@@ -51,3 +51,16 @@
 .checks {
 	list-style-image: url(../images/check.png);
 }
+
+.footerwrapper {
+	background-color: black;
+	color:orange;
+}
+
+.fa {
+	color:orange;
+}
+.footerwrapper li {
+	display:block;
+
+}
